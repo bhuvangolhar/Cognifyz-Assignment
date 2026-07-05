@@ -1,4 +1,4 @@
-# 🎨 Cognifyz Internship
+# 🎓 Cognifyz Internship
 
 This repository contains my work completed during the **UI/UX Design Internship at Cognifyz Technologies**.
 
